@@ -1,0 +1,11 @@
+header {
+    z-index: 1000;
+}
+
+#hero p {
+    z-index: 1;
+}
+
+#about img {
+    filter: grayscale(.75);
+}
